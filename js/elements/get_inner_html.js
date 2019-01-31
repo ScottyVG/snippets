@@ -1,0 +1,2 @@
+el.innerHTML
+// IE8+

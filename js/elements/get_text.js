@@ -1,0 +1,2 @@
+el.textContent
+// IE9+

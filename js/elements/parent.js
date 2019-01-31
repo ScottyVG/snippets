@@ -1,0 +1,2 @@
+el.parentNode
+//IE8+

@@ -1,0 +1,2 @@
+el.getBoundingClientRect()
+// IE8+

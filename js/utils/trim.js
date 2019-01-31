@@ -1,0 +1,2 @@
+string.trim();
+// IE9+

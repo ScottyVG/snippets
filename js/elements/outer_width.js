@@ -1,0 +1,2 @@
+el.offsetWidth
+// IE8+

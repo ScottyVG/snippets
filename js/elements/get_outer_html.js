@@ -1,0 +1,2 @@
+el.outerHTML
+// IE8+
