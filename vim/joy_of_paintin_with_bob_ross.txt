@@ -1,0 +1,28 @@
+Joy of Painting[1] with Bob Ross[2]
+=
+
+https://www.youtube.com/watch?v=Nim4_f5QUxA
+
+	[1] - Vim
+	[2] - Shawn Biddle
+
+Modality
+===
+
+	Insert	- Brush is on the canvas
+	Normal	- Brush is off the canvas
+	Command	- Mixing your pallette
+
+Starting Vim
+===
+
+	vim <file>
+	vim, :e <file>
+
+Pen to the page
+===
+
+	i - Enter insert mode at cursor
+	I - Enter insert mode at first non-blank character
+	s - Delete character under cursor and enter insert mode
+
